@@ -5,7 +5,7 @@ I did these projects on the DataCamp Platform.
 
 1. [Classify Song Genres from Audio Data](/Classify-Song-Genres-from-Audio-Data/notebook.ipynb)
 2. [Predicting Credit Card Approvals](/Predicting-Credit-Card-Approvals/notebook.ipynb)
-
+3. [Reducing Traffic Mortality in the USA](/Reducing-Traffic-Mortality-in-the-USA/notebook.ipynb)
 
 ### Technologies / Tools Used
 - Python [Pandas, Numpy, Matplotlib, Seaborn, sklearn]
